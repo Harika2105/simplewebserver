@@ -33,7 +33,7 @@ content='''
 </head>
 <body>
 <h1>My Laptop Configuration</h1>
-<table>
+<table border="2">
     <tr>
         <th>System config</th>
         <th>Description</th>
